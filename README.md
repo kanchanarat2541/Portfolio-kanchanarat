@@ -1,12 +1,15 @@
 # 📡 SNR Prediction Using Environmental Sensor Data
 
-This project predicts Signal-to-Noise Ratio (SNR) in a wireless communication system using machine learning models. The dataset includes multiple environmental and signal-related features:
-- Air Temperature (`T_a`)
-- Humidity (`RH_a`)
-- Air Pressure (`P_a`)
-- Frequency (`f`)
-- Soil Humidity and Temperature (`RH_s`, `T_s`)
-- Signal-to-Noise Ratio (`snr`) – Target variable
+This project predicts the Signal-to-Noise Ratio (SNR) in a wireless communication system using machine learning models.  
+The dataset includes multiple environmental and signal-related features collected from sensors.
+
+## 🧾 Features Included
+- **Air Temperature** (`T_a`)
+- **Humidity** (`RH_a`)
+- **Air Pressure** (`P_a`)
+- **Frequency** (`f`)
+- **Soil Humidity and Temperature** (`RH_s`, `T_s`)
+- **Signal-to-Noise Ratio (SNR)** – *Target variable*
 
 ## 🔧 Tools and Libraries
 - Python (pandas, scikit-learn, xgboost, catboost)
@@ -30,9 +33,9 @@ This project predicts Signal-to-Noise Ratio (SNR) in a wireless communication sy
 ## 📝 Project Structure
 - `notebooks/`: ML notebook
 - `images/`: Charts and graphs
-- `data/`: (Optional) sample or dummy datasets
+- `data/`: sample datasets
 
 ## 👩‍💻 Author
 - [Kanchanarat chokruy;Anya Apavatjrut]
 - M.Sc. in Information Technology (Data Analytics Track)
-- GitHub: https://github.com/Kanchanarat_C
+- GitHub: https://github.com/Kanchanarat2541
