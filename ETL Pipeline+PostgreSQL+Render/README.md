@@ -50,3 +50,15 @@ CREATE TABLE weather_hourly_log (
     temperature FLOAT,
     location VARCHAR(100) DEFAULT 'Bangkok'
 );
+
+-----
+
+📊 Future Work
+Build a dashboard using Power BI, Metabase, or Looker Studio
+
+Deploy API endpoints using FastAPI or Flask to serve predictions
+
+Dockerize the project for deployment
+
+📄 License
+This project is open-source and free to use for educational or professional purposes.
