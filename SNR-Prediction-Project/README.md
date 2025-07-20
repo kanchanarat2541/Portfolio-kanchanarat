@@ -45,12 +45,12 @@ CatBoost
 
 ---
 Project Structure
-├── notebooks/           # Jupyter Notebooks for data exploration & modeling
-├── src/                 # (Optional) Python scripts/modules
-├── data/                # Sample or simulated datasets (not included)
-├── images/              # Graphs and plots
-├── README.md            # Project overview
-├── requirements.txt     # List of Python dependencies
+├── notebooks/ # Jupyter Notebooks for data exploration & modeling
+├── src/ # (Optional) Python scripts/modules
+├── data/ # Sample or simulated datasets (not included)
+├── images/ # Graphs and plots
+├── README.md # Project documentation
+├── requirements.txt # Python dependencies
 
 
 ## 📄 Reference Publication
