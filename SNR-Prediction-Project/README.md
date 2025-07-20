@@ -44,12 +44,18 @@ CatBoost
 - The **current project** improved performance to **76.35% PoV** with CatBoost, reflecting enhanced feature use and tuning.
 
 ---
-Project Structure
+## Project Structure
+
 ├── notebooks/ # Jupyter Notebooks for data exploration & modeling
+
 ├── src/ # (Optional) Python scripts/modules
+
 ├── data/ # Sample or simulated datasets (not included)
+
 ├── images/ # Graphs and plots
+
 ├── README.md # Project documentation
+
 ├── requirements.txt # Python dependencies
 
 
