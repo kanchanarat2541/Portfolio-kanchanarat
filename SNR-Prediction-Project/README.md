@@ -66,17 +66,6 @@ Apavatjrut, A., & Chokruay, K. (2025).
 *ECTI Transactions on Electrical Engineering, Electronics, and Communications, 23(2).*  
 DOI: [10.37936/ecti-eec.2525232.255314](https://doi.org/10.37936/ecti-eec.2525232.255314)
 
----
-
-## 👩‍💻 Authors
-
-- **Anya Apavatjrut**  
-- **Kanchanarat Chokruay**  
-  *Department of Computer Engineering, Chiang Mai University*
-
-GitHub: [Kanchanarat2541](https://github.com/Kanchanarat2541)
-
----
 
 ## 📦 Installation
 
