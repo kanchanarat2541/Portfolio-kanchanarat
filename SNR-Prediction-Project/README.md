@@ -69,7 +69,8 @@ Predicts Signal-to-Noise Ratio (SNR) in wireless communication using machine lea
 Apavatjrut, A., & Chokruay, K. (2025).  
 **SNR Prediction Based on Environmental Sensing Data: An Approach Using Machine Learning.**  
 *ECTI Transactions on Electrical Engineering, Electronics, and Communications, 23(2).*  
-DOI: [10.37936/ecti-eec.2525232.255314](https://doi.org/10.37936/ecti-eec.2525232.255314)
+Published:Jun 28, 2025
+https://ph02.tci-thaijo.org/index.php/ECTI-EEC/article/view/255314
 
 ## 📦 Installation
 
