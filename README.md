@@ -17,3 +17,6 @@ https://www.cloudskillsboost.google/public_profiles/04f784fd-f4e7-453c-a4f5-816d
 
 Digital Transformation with Google Cloud
 https://www.cloudskillsboost.google/public_profiles/04f784fd-f4e7-453c-a4f5-816dec00576f/badges/3070839?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share
+
+Introduction to Data Engineer
+https://app.futureskill.co/api/certificate?courseId=612&userId=247244
