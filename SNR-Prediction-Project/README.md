@@ -4,6 +4,9 @@ In wireless communication systems like LoRaWAN or IoT networks, Signal-to-Noise 
 
 This project aims to predict SNR values based on environment features using machine learning, enabling proactive adjustments to network settings or resource allocation. Improving SNR predictions can help reduce data loss and increase the speed and reliability of data transmission.
 
+##Abstract
+Conducted wireless signal analysis by examining the relationship between signal parameters (Frequency, RSSI, Distance) and environmental variables (Temperature, Humidity, Barometric Pressure) to improve SNR prediction accuracy using Machine Learning models (XGBoost, CatBoost), achieving up to 76% accuracy.
+
 ## 📡 SNR Prediction Using Environmental Sensor Data
 
 Predicts Signal-to-Noise Ratio (SNR) in wireless communication using machine learning models, based on environmental and sensor data such as temperature, humidity, pressure, and soil readings. Built as an end-to-end, modular Python pipeline.
