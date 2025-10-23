@@ -1,0 +1,5 @@
+orderid,customerid,employeeid,orderdate,requireddate,shippeddate,shipvia,freight,shipname,shipaddress,shipcity,shipregion,shippostalcode,shipcountry
+11074,SIMOB,7,1998-05-06,1998-06-03,,2,18.44,Simons bistro,Vinbæltet 34,Kobenhavn,,1734,Denmark
+11075,RICSU,8,1998-05-06,1998-06-03,,2,6.19,Richter Supermarkt,Starenweg 5,Genève,,1204,Switzerland
+11076,BONAP,4,1998-05-06,1998-06-03,,2,38.28,Bon app',"12, rue des Bouchers",Marseille,,13008,France
+11077,RATTC,1,1998-05-06,1998-06-03,,2,8.53,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA
