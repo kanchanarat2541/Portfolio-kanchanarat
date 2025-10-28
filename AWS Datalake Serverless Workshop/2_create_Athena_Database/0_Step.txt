@@ -1,0 +1,4 @@
+1. Create Database > Create_Database.sql
+2. Config AWS Glue Crawler
+3. Copy DDL from Athena Landing_Zone to Create table in Raw_Zone
+4. CTAS all tables

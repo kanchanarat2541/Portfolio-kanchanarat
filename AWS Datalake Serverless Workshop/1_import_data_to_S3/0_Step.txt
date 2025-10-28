@@ -1,0 +1,21 @@
+1. Create S3 Bucket
+2. Create Sub_Folder
+    2.1 Landing_Zone
+    2.2 Raw_Zone
+    2.3 Serving_Zone
+3. Upload data to S3 Landing_Zone
+Floder Structure
+<Data-Name>
+- <Date YYYYMMDD>
+-- <Data File>
+ตัวอย่าง
+orders
+- 20230120
+-- orders_20231020.csv
+- 20230121
+-- orders_20231021.csv
+orders_details
+- 20230120
+-- orders_details_20231020.csv
+- 20230121
+-- orders__details_20231021.csv
