@@ -24,7 +24,6 @@ Google Cloud Platform (GCP) Fundamentals: Strong working knowledge of core servi
 https://www.cloudskillsboost.google/public_profiles/04f784fd-f4e7-453c-a4f5-816dec00576f/badges/3167288?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share
 
 -------------------------------------------------------------------------------------------------------
-
 ##Digital Transformation with Google Cloud
 
 Familiar with the organizational and strategic aspects of Digital Transformation, focusing on how Google Cloud services drive innovation and supporthigh-level data-driven decision-making.
@@ -32,12 +31,25 @@ Familiar with the organizational and strategic aspects of Digital Transformation
 https://www.cloudskillsboost.google/public_profiles/04f784fd-f4e7-453c-a4f5-816dec00576f/badges/3070839?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share
 
 -------------------------------------------------------------------------------------------------------
-
-##Introduction to Data Engineer 
-
+##Introduction to Data Engineer
 https://app.futureskill.co/api/certificate?courseId=612&userId=247244
 
---------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------
 ##Learn tools and infrastructure in Data Engineering
-
 https://app.futureskill.co/api/certificate?courseId=613&userId=247244
+
+-------------------------------------------------------------------------------------------------------
+##Python, Pandas และ PySpark for Data Engineer
+https://app.futureskill.co/api/certificate?courseId=639&userId=247244
+
+-------------------------------------------------------------------------------------------------------
+##Learn tools for building Serverless Data Lakes with AWS Cloud https://app.futureskill.co/api/certificate?courseId=641&userId=247244
+
+-------------------------------------------------------------------------------------------------------
+##Analyze linguistic data and solve business problems with Natural Language Processing 
+https://app.futureskill.co/api/certificate?courseId=104&userId=247244
+
+-------------------------------------------------------------------------------------------------------
+##Drill into linguistic data to find insights in data using Natural Language Processing and Deep Learning
+
+-------------------------------------------------------------------------------------------------------
